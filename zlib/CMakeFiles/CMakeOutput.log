@@ -1,0 +1,260 @@
+The system is: Windows - 10.0.14393 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:28
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\3.7.2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "Debug\" 디렉터리를 만들고 있습니다.
+  "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\CompilerIdC.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\3.7.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  "Debug\CompilerIdC.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\3.7.2\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.84
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Work/OpenLib/zlib/CMakeFiles/3.7.2/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_76084.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:29
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_76084.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_76084.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_76084.dir\Debug\cmTC_76084.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_76084.dir\Debug\cmTC_76084.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_76084.dir\Debug\\" /Fd"cmTC_76084.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.24215.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_76084.dir\Debug\\" /Fd"cmTC_76084.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_76084.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_76084.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_76084.lib" /MACHINE:X64  /machine:x64 cmTC_76084.dir\Debug\testCCompiler.obj
+  cmTC_76084.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_76084.exe
+FinalizeBuildStatus:
+  "cmTC_76084.dir\Debug\cmTC_76084.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_76084.dir\Debug\cmTC_76084.tlog\cmTC_76084.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_76084.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:01.07
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_2e5eb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:31
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_2e5eb.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_2e5eb.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_2e5eb.dir\Debug\cmTC_2e5eb.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_2e5eb.dir\Debug\cmTC_2e5eb.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2e5eb.dir\Debug\\" /Fd"cmTC_2e5eb.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.24215.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2e5eb.dir\Debug\\" /Fd"cmTC_2e5eb.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_2e5eb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_2e5eb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_2e5eb.lib" /MACHINE:X64  /machine:x64 cmTC_2e5eb.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_2e5eb.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_2e5eb.exe
+FinalizeBuildStatus:
+  "cmTC_2e5eb.dir\Debug\cmTC_2e5eb.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_2e5eb.dir\Debug\cmTC_2e5eb.tlog\cmTC_2e5eb.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_2e5eb.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.77
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5ac4e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:32
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_5ac4e.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_5ac4e.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_5ac4e.dir\Debug\cmTC_5ac4e.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_5ac4e.dir\Debug\cmTC_5ac4e.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ac4e.dir\Debug\\" /Fd"cmTC_5ac4e.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.24215.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ac4e.dir\Debug\\" /Fd"cmTC_5ac4e.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_5ac4e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_5ac4e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_5ac4e.lib" /MACHINE:X64  /machine:x64 cmTC_5ac4e.dir\Debug\CheckIncludeFile.obj
+  cmTC_5ac4e.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_5ac4e.exe
+FinalizeBuildStatus:
+  "cmTC_5ac4e.dir\Debug\cmTC_5ac4e.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_5ac4e.dir\Debug\cmTC_5ac4e.tlog\cmTC_5ac4e.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_5ac4e.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.77
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_4c2b4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:33
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_4c2b4.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_4c2b4.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_4c2b4.dir\Debug\cmTC_4c2b4.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_4c2b4.dir\Debug\cmTC_4c2b4.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c2b4.dir\Debug\\" /Fd"cmTC_4c2b4.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.24215.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c2b4.dir\Debug\\" /Fd"cmTC_4c2b4.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_4c2b4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_4c2b4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_4c2b4.lib" /MACHINE:X64  /machine:x64 cmTC_4c2b4.dir\Debug\CheckIncludeFile.obj
+  cmTC_4c2b4.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_4c2b4.exe
+FinalizeBuildStatus:
+  "cmTC_4c2b4.dir\Debug\cmTC_4c2b4.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_4c2b4.dir\Debug\cmTC_4c2b4.tlog\cmTC_4c2b4.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_4c2b4.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.79
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_831df.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine 버전 14.0.25420.1]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+빌드 시작: 2017-08-16 오전 2:18:34
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,37)"의 BeforeTargets 특성에 나열된 "_ConvertPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (34,70)"의 AfterTargets 특성에 나열된 "_CollectPdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,38)"의 BeforeTargets 특성에 나열된 "_CollectMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (41,71)"의 AfterTargets 특성에 나열된 "_CopyMdbFiles" 대상이 프로젝트에 없으며 무시됩니다.
+1 노드의 "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_831df.vcxproj" 프로젝트(기본 대상)입니다.
+PrepareForBuild:
+  "cmTC_831df.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTC_831df.dir\Debug\cmTC_831df.tlog\" 디렉터리를 만들고 있습니다.
+InitializeBuildStatus:
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_831df.dir\Debug\cmTC_831df.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_831df.dir\Debug\\" /Fd"cmTC_831df.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.24215.1(x64)
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_831df.dir\Debug\\" /Fd"cmTC_831df.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_831df.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_831df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Work/OpenLib/zlib/CMakeFiles/CMakeTmp/Debug/cmTC_831df.lib" /MACHINE:X64  /machine:x64 cmTC_831df.dir\Debug\CheckIncludeFile.obj
+  cmTC_831df.vcxproj -> C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\Debug\cmTC_831df.exe
+FinalizeBuildStatus:
+  "cmTC_831df.dir\Debug\cmTC_831df.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTC_831df.dir\Debug\cmTC_831df.tlog\cmTC_831df.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Work\OpenLib\zlib\CMakeFiles\CMakeTmp\cmTC_831df.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:00.75
+
+

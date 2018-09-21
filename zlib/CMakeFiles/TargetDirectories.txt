@@ -1,0 +1,8 @@
+C:/Work/OpenLib/zlib/CMakeFiles/RUN_TESTS.dir
+C:/Work/OpenLib/zlib/CMakeFiles/zlib.dir
+C:/Work/OpenLib/zlib/CMakeFiles/example.dir
+C:/Work/OpenLib/zlib/CMakeFiles/zlibstatic.dir
+C:/Work/OpenLib/zlib/CMakeFiles/minigzip.dir
+C:/Work/OpenLib/zlib/CMakeFiles/INSTALL.dir
+C:/Work/OpenLib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Work/OpenLib/zlib/CMakeFiles/ZERO_CHECK.dir
