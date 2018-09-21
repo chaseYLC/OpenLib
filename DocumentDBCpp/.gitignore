@@ -1,0 +1,51 @@
+# User solutions
+*.suo
+*.user
+
+# Debug and Release directories
+Debug/
+Release/
+
+# Browsing database
+*.sdf
+*.opensdf
+DocumentDBCpp.v120.VC.db
+DocumentDBCpp.v120.VC.VC.opendb
+DocumentDBCpp.v140.VC.db
+DocumentDBCpp.v140.VC.VC.opendb
+
+# NuGet packages directory
+packages/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+ipch/
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Configuration file with account name and master key
+/test/account_configuration.txt
